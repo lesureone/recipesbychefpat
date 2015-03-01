@@ -48,12 +48,12 @@ body {
 	@include box-shadow;
 	border: none;
 	.navbar-brand {
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 		letter-spacing: -1px;
 		font-weight: bold;
 		font-size: 25px;
 		a {
-			color: gray;
+			color: black;
 		}
 	}
 }
